@@ -9,3 +9,41 @@ funzione somma(numero1, numero2)
     restituisci risultato
     
     //fine
+
+    Scrivere la funzione maggiore che riceve due numeri e restituisce il più grande
+
+    funzione maggiore(numero1, numero2)
+        //verifico quale numero è piu grande
+        se numero1 > numero2
+        allora
+            risultato = numero1
+        altrimenti
+            risultato = numero2
+        end
+
+        //restituisco il risultato
+        restituisci risultato
+    fine
+
+
+
+esercizio 2
+
+//definisco le variabili
+numero1
+numero2
+risultato
+
+//nome della funzione controllo
+controllo (numero 1; numero 2)
+se numero 1 = numero 2
+
+allora 
+risultato = "uguali"
+
+altrimenti 
+risultato = "diversi"
+
+//restituisco il risultato  
+restituisci risultato
+fine
